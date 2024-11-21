@@ -22,7 +22,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://poll.fm/14453281/embed"],
+      "matches": ["https://poll.fm/14670398/embed"],
       "js": ["contentScript.js"]
     }
   ]
